@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+#import pandas as pd
 import investpy as ip
 from datetime import datetime, timedelta
 import plotly.graph_objs as go
